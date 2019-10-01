@@ -1,0 +1,2 @@
+gitbucket is used as a local installation of GitHub(For code privacy).
+git is the software, github is the frontend
