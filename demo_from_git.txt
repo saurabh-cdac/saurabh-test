@@ -1,7 +1,5 @@
 sample file create from github to pull from git local.
-
-
-
-
-
 new line added from gitbash
+EDIT 1:
+
+new edit from master
