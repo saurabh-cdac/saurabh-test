@@ -1,0 +1,10 @@
+gitbucket is used as a local installation of GitHub(For code privacy).
+git is the software, github is the frontend
+git add adds the file into the staging area. Adds file to gits index so it knows that the file is to be tracked.
+
+Branching
+
+Branching is used to create new branches of codes, probably for separate development. 
+First branch is always the master branch.
+
+git checkout is used to switch between branches.
