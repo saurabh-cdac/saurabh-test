@@ -8,3 +8,9 @@ Branching is used to create new branches of codes, probably for separate develop
 First branch is always the master branch.
 
 git checkout is used to switch between branches.
+
+After merging, can revert to older version using git log.
+
+
+Rebase/Squash/Merge.
+
