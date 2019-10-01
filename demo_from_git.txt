@@ -1,7 +1,10 @@
 sample file create from github to pull from git local.
+<<<<<<< HEAD
 new line added from gitbash
 EDIT 1:
 
 new edit from master
 change 1
 
+=======
+>>>>>>> parent of eeffd85... demo file modified from gitBash
