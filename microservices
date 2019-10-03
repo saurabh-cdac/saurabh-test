@@ -14,3 +14,7 @@ docker commit to save/create new image from existing container
 use docker save to save images into tar file to make it portable.
 
 use docker load to make image from tar file and then use docker run.
+
+
+use docker run -v local_path:container_path to map local directory to container.
+This way, we can keep the configuration locally and change it as needed dynamically.(For example httpd.conf)
