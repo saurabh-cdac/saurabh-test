@@ -21,3 +21,7 @@ This way, we can keep the configuration locally and change it as needed dynamica
 
 
 use docker -e to set environment variables.
+
+
+by default, containers arw not allowed to communicate with each other on the same host.
+TO do this, add them to the same network,.
