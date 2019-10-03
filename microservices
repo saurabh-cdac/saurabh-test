@@ -1,3 +1,6 @@
 docker start and attach later to go inside running container.
 or 
 docker run directly
+
+
+always add and use names to container, otherwise have to use container id.
