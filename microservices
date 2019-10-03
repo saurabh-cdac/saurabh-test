@@ -1,0 +1,3 @@
+docker start and attach later to go inside running container.
+or 
+docker run directly
