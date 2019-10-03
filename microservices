@@ -4,3 +4,6 @@ docker run directly
 
 
 always add and use names to container, otherwise have to use container id.
+ 
+ 
+ can run container with --rm to execute one time tasks.
