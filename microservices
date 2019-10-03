@@ -11,4 +11,6 @@ always add and use names to container, otherwise have to use container id.
 docker commit to save/create new image from existing container
 
 
-use docler save to save images into tar file to make it portable.
+use docker save to save images into tar file to make it portable.
+
+use docker load to make image from tar file and then use docker run.
