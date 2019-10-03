@@ -18,3 +18,6 @@ use docker load to make image from tar file and then use docker run.
 
 use docker run -v local_path:container_path to map local directory to container.
 This way, we can keep the configuration locally and change it as needed dynamically.(For example httpd.conf)
+
+
+use docker -e to set environment variables.
