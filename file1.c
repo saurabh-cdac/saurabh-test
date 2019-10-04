@@ -1,6 +1,6 @@
 #include<stdio.h>
 
 void main(){
-printf("\nhello job 2 running\n");
+printf("\nhello from job 2 running\n");
   exit(0);
 }
