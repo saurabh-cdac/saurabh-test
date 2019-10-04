@@ -1,4 +1,5 @@
 #include<stdio.h>
 void main(){
-prinf("hello");
+prinf("\nhello\n");
+  exit 0;
 }
