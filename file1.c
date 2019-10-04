@@ -1,6 +1,6 @@
 #include<stdio.h>
 
 void main(){
-prinf("\nhello\n");
+printf("\nhello\n");
   exit(0);
 }
