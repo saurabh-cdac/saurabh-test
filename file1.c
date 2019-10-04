@@ -1,1 +1,4 @@
-New file for test
+#include<stdio.h>
+void main(){
+prinf("hello");
+}
