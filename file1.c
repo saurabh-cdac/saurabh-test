@@ -1,6 +1,6 @@
 #include<stdio.h>
-#include<conio.h>
+#include<iostream.h>
 void main(){
 prinf("\nhello\n");
-  exit 0;
+  exit(0);
 }
